@@ -1,0 +1,12 @@
+[submodule "vendor/MinHook"]
+	path = vendor/MinHook
+	url = https://github.com/TsudaKageyu/minhook
+[submodule "vendor/json"]
+	path = vendor/json
+	url = https://github.com/nlohmann/json
+[submodule "vendor/g3log"]
+	path = vendor/g3log
+	url = https://github.com/KjellKod/g3log.git
+[submodule "vendor/ImGui"]
+	path = vendor/ImGui
+	url = https://github.com/ocornut/imgui
